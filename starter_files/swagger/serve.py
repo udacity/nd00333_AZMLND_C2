@@ -33,7 +33,7 @@ class CORSRequestHandler(SimpleHTTPRequestHandler):
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         # Allows the port to be passed in as an argument
-        port = int(sys.argv[-1])
+        port = sys.argv[-1]
     else:
         port = 8000
 
