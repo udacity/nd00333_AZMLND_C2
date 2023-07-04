@@ -1,0 +1,18 @@
+ az login
+You have logged in. Now let us find all the subscriptions to which you have access...
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "660b3398-b80e-49d2-bc5b-ac1dc93b5254",
+    "id": "f9d5a085-54dc-4215-9ba6-dad5d86e60a0",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "Udacity CloudLabs Sub - 04",
+    "state": "Enabled",
+    "tenantId": "660b3398-b80e-49d2-bc5b-ac1dc93b5254",
+    "user": {
+      "name": "odl_user_238203@udacitylabs.onmicrosoft.com",
+      "type": "user"
+    }
+  }
+]
